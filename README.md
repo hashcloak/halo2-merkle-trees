@@ -1,1 +1,1 @@
-# halo2-merkle-trees
+# Merkle Tree proofs verification in Halo2
